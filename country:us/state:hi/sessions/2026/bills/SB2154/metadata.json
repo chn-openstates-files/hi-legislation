@@ -17,12 +17,102 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "Requires the Department of Agriculture and Biosecurity to conduct a study of agricultural markets for Hawaii farmers.  Requires a report to the Legislature.  Appropriates funds for the one-year study of agricultural markets for Hawaii farmers.  Appropriates funds to establish two full-time equivalent (2.0 FTE) positions to collect agricultural data and conduct data analysis for public consumption."
+      "abstract": "Requires the Department of Agriculture and Biosecurity to conduct a study of agricultural markets for Hawaii farmers.  Requires a report to the Legislature.  Appropriates funds for the one-year study of agricultural markets for Hawaii farmers.  Appropriates funds to establish positions to collect agricultural data and conduct data analysis for public consumption.  Effective 7/1/2050.  (SD1)"
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-sb2154"
+    }
+  ],
   "actions": [
+    {
+      "description": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to WAM.",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Reported from AEN (Stand. Com. Rep. No. 2105) with recommendation of passage on Second Reading, as amended (SD 1) and referral to WAM.",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  AEN recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in AEN were as follows: 5 Aye(s): Senator(s) Gabbard, Richards, DeCoite, Rhoads, Awa; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "The committee(s) on AEN has scheduled a public hearing on 01-28-26 3:00PM; Conference Room 224 & Videoconference.",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Referred to AEN, WAM.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Agriculture and Environment",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Introduced and passed First Reading.",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
     {
       "description": "Pending Introduction.",
       "date": "2026-01-14",
@@ -135,6 +225,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "SB2154_SD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB2154_SD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB2154_SD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB2154",
       "links": [
         {
@@ -158,7 +263,9 @@
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "current_referral": "AEN, WAM"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:hi/government",
     "name": "Hawaii",
@@ -166,6 +273,6 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:35:37Z"
+    "logs_latest_update": "2026-07-03T13:49:51Z"
   }
 }

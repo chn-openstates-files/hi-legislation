@@ -22,8 +22,46 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-sb1669"
+    }
+  ],
   "actions": [
+    {
+      "description": "Re-Referred to TRS/HOU, WAM.",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:53Z"
+      }
+    },
+    {
+      "description": "Received notice of all Senate conferees being discharged (Sen. Com. No. 409).",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:53Z"
+      }
+    },
+    {
+      "description": "Senate Conferee(s) discharged.",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:53Z"
+      }
+    },
     {
       "description": "Carried over to 2026 Regular Session.",
       "date": "2025-12-08",
@@ -533,44 +571,14 @@
   ],
   "versions": [
     {
-      "note": "SB1669_HD3",
+      "note": "SB1669_SD2",
       "links": [
         {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1669_HD3_.HTM",
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1669_SD2_.HTM",
           "media_type": "text/html"
         },
         {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1669_HD3_.PDF",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "SB1669_HD2",
-      "links": [
-        {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1669_HD2_.HTM",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1669_HD2_.PDF",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "SB1669_HD1",
-      "links": [
-        {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1669_HD1_.HTM",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1669_HD1_.PDF",
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1669_SD2_.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -593,14 +601,44 @@
       "classification": ""
     },
     {
-      "note": "SB1669_SD2",
+      "note": "SB1669_HD1",
       "links": [
         {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1669_SD2_.HTM",
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1669_HD1_.HTM",
           "media_type": "text/html"
         },
         {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1669_SD2_.PDF",
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1669_HD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB1669_HD2",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1669_HD2_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1669_HD2_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB1669_HD3",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1669_HD3_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1669_HD3_.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -632,7 +670,7 @@
     }
   ],
   "extras": {
-    "current_referral": "HSG/TRN, WAL, FIN"
+    "current_referral": "TRS/HOU, WAM"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:hi/government",
@@ -641,6 +679,6 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:35:37Z"
+    "logs_latest_update": "2026-07-03T13:49:53Z"
   }
 }

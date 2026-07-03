@@ -25,8 +25,47 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-sb2133"
+    }
+  ],
   "actions": [
+    {
+      "description": "Referred to HHS, JDC.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health and Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Introduced and passed First Reading.",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
     {
       "description": "Pending Introduction.",
       "date": "2026-01-14",
@@ -48,7 +87,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HB 1530",
+      "legislative_session": "2026 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "SB2133",
@@ -74,7 +119,9 @@
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "current_referral": "HHS, JDC"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:hi/government",
     "name": "Hawaii",
@@ -82,6 +129,6 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:35:37Z"
+    "logs_latest_update": "2026-07-03T13:49:51Z"
   }
 }

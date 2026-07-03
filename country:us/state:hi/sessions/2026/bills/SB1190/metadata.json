@@ -7,19 +7,98 @@
     "bill"
   ],
   "subject": [
-    "Appropriations ($)",
+    "Appropriation ($)",
     "Department of Land and Natural Resources",
     "Hawaii Invasive Species Council"
   ],
   "abstracts": [
     {
       "note": "description",
-      "abstract": "Appropriates funds to the Hawaii Invasive Species Council to support its initiatives to control and eradicate invasive species in the State."
+      "abstract": "Appropriates funds to the Hawaii Invasive Species Council to support its initiatives to control and eradicate invasive species in the State.  Effective 7/1/2050.  (SD1)"
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-sb1190"
+    }
+  ],
   "actions": [
+    {
+      "description": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to WAM.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "Reported from WLA/AEN (Stand. Com. Rep. No. 2618) with recommendation of passage on Second Reading, as amended (SD 1) and referral to WAM.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  WLA recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in WLA were as follows: 5 Aye(s): Senator(s) Lee, C., Inouye, Chang, Lamosao, DeCorte; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  AEN recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in AEN were as follows: 5 Aye(s): Senator(s) Gabbard, Richards, DeCoite, Rhoads, Awa; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "The committee(s) on WLA/AEN has scheduled a public hearing on 02-11-26 1:00PM; CR 224 & Videoconference.",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "Re-Referred to WLA/AEN, WAM.",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
     {
       "description": "Carried over to 2026 Regular Session.",
       "date": "2025-12-08",
@@ -130,6 +209,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "SB1190_SD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1190_SD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1190_SD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB1190",
       "links": [
         {
@@ -154,7 +248,7 @@
     }
   ],
   "extras": {
-    "current_referral": "WTL/AEN, WAM"
+    "current_referral": "WLA/AEN, WAM"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:hi/government",
@@ -163,6 +257,6 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:35:36Z"
+    "logs_latest_update": "2026-07-03T13:49:46Z"
   }
 }

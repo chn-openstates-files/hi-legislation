@@ -10,17 +10,85 @@
     "Appropriation ($)",
     "DHHL",
     "Geothermal Resources",
+    "Geothermal Revolving Fund",
     "Hawaiian Home Lands"
   ],
   "abstracts": [
     {
       "note": "description",
-      "abstract": "Appropriates funds to the Department of Hawaiian Home Lands for water well development for geophysical investigation, exploration, and identification of geothermal resources on Hawaiian home lands.  Effective 7/1/3000.  (HD2)"
+      "abstract": "Establishes the Geothermal Revolving Fund for loans for water well development for geophysical investigation, exploration, and identification of geothermal resources on Hawaiian home lands.  Appropriates funds.  Effective 7/1/3000.  (SD1)"
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-hb1307"
+    }
+  ],
   "actions": [
+    {
+      "description": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to WAM.",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:44Z"
+      }
+    },
+    {
+      "description": "Reported from HWN/EIG (Stand. Com. Rep. No. 3374) with recommendation of passage on Second Reading, as amended (SD 1) and referral to WAM.",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:44Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  HWN recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in HWN were as follows: 2 Aye(s): Senator(s) Richards, Lamosao; Aye(s) with reservations: none ; 1 No(es): Senator(s) DeCorte; and 2 Excused: Senator(s) Ihara, Keohokalole.",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:44Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  EIG recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in EIG were as follows: 5 Aye(s): Senator(s) Wakai, Chang, DeCoite, Richards, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:44Z"
+      }
+    },
+    {
+      "description": "The committee(s) on HWN/EIG has scheduled a public hearing on 03-24-26 1:10PM; Conference Room 224 & Videoconference.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:44Z"
+      }
+    },
     {
       "description": "Carried over to 2026 Regular Session.",
       "date": "2025-12-08",
@@ -392,6 +460,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "HB1307_SD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HB1307_SD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HB1307_SD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "HB1307_HD1",
       "links": [
         {
@@ -455,6 +538,6 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:35:38Z"
+    "logs_latest_update": "2026-07-03T13:49:44Z"
   }
 }

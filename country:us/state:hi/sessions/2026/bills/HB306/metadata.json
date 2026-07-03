@@ -14,12 +14,242 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "Adds a minimum penalty and maximum penalty per violation of the State Water Code and authorizes the Commission on Water Resource Management to consider each day that a violation exists or continues to exist a separate offense.  Establishes factors the CWRM must consider when determining the amount of the penalty.  Increases maximum fines every five years from 2030 to 2045.  Effective 7/1/2040.  (SD1)"
+      "abstract": "Makes failure to maintain a natural stream channel that causes an unreasonable and substantial physical obstruction of the natural flow of water a violation of the State Water Code, with certain exceptions. Establishes a period of time after receipt of written notice of certain violations of the State Water Code during which a violator may remedy the violation or enter into a corrective action plan with the Commission on Water Resource Management (CWRM).  Gives CWRM the discretion to impose a minimum penalty per State Water Code violation, increases the maximum penalty per violation, and authorizes CWRM to consider each day that a violation exists or continues to exist a separate offense.  Establishes factors CWRM must consider when determining the amount of the penalty.  Prohibits the State from acquiring a fee simple interest in any artificial watercourse, including a canal or ditch, under certain circumstances.  Allows the State to acquire a fee simple interest in the artificial watercourse if the Legislature provides prior approval by concurrent resolution.  (CD1)"
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-hb306"
+    }
+  ],
   "actions": [
+    {
+      "description": "Recommitted to Conference committee as amended in CD 1 with none voting no and Representative(s) Ratcliffe excused.",
+      "date": "2026-05-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Received notice of Final Reading (Sen. Com. No. 816).",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Deferred one day 05-08-26.",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Passed Final Reading, as amended (CD 1). Ayes, 25; Aye(s) with reservations: none . 0 No(es): none.  0 Excused: none.",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "48 Hrs. Notice (as amended CD 1) 05-06-26",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Reported from Conference Committee as amended CD 1 (Conf. Com. Rep. No. 196-26).",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Forty-eight (48) hours notice Wednesday, 05-06-26.",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Reported from Conference Committee (Conf Com. Rep. No. 196-26) as amended in (CD 1).",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 4 Ayes: Representative(s) Hashem, Tarnas, Morikawa, Shimizu; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none.",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "The Conference committee recommends that the measure be PASSED, WITH AMENDMENTS. The votes of the Senate Conference Managers were as follows: 3 Aye(s): Senator(s) Lee, C., Rhoads, Hashimoto; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Conference committee meeting to reconvene on 05-01-26 11:35 AM; Conference Room 229.",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Conference committee meeting to reconvene on 05-01-26 9:00AM; Conference Room 229.",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Conference committee meeting to reconvene on 04-30-26 9:00AM; Conference Room 229.",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Conference committee meeting scheduled for 04-29-26 9:01AM; Conference Room 229.",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Received notice of Senate conferees (Sen. Com. No. 782).",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Senate Conferees Appointed: Lee, C. Chairs; Rhoads, Hashimoto Co-Chairs.",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Received notice of appointment of House conferees (Hse. Com. No. 820).",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "House Conferees Appointed: Hashem, Tarnas, Morikawa Co-Chairs; Shimizu.",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Re-Referred to WLA, JDC/WAM.",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Received notice of the discharge of all House Conferees (Hse. Com. No. 457).",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "House Conferee(s) discharged.",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
     {
       "description": "Carried over to 2026 Regular Session.",
       "date": "2025-12-08",
@@ -545,6 +775,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "HB306_CD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HB306_CD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HB306_CD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "HB306_SD1",
       "links": [
         {
@@ -614,7 +859,7 @@
     }
   ],
   "extras": {
-    "current_referral": "WTL, JDC/WAM"
+    "current_referral": "WLA, JDC/WAM"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:hi/government",
@@ -623,6 +868,6 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:35:38Z"
+    "logs_latest_update": "2026-07-03T13:49:51Z"
   }
 }

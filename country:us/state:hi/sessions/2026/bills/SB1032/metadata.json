@@ -9,18 +9,184 @@
   "subject": [
     "CSC",
     "Campaign Finance",
-    "Foreign Entities",
-    "Foreign-influenced Business Entities"
+    "Cargo Carriers",
+    "Exemption",
+    "Foreign Corporations",
+    "Foreign Nationals",
+    "Foreign-Influenced Business Entities"
   ],
   "abstracts": [
     {
       "note": "description",
-      "abstract": "Prohibits foreign entities and foreign-influenced business entities from making contributions, expenditures, electioneering communications, or donations for election purposes.  Allows every business entity that contributes or expends funds in a state election to certify that the entity is not and will not be a foreign corporation or foreign-influenced business entity if the entity intends to make contributions or expenditures within an election cycle.  Specifies that if the conditions that determine whether a business entity qualifies as a foreign\u2011influenced business entity are held unconstitutional by a final judgment, including all appeals, the Campaign Spending Commission is required to establish revised conditions that are constitutional.  Requires noncandidate committees making only independent expenditures to obtain a statement of certification from each top contributor required to be listed in an advertisement avowing that no funds were derived from foreign entities or foreign-influenced business entities.  Effective 7/1/3000.  (HD1)"
+      "abstract": "Prohibits foreign nationals, foreign corporations, and foreign-influenced business entities from making contributions, expenditures, electioneering communications, or donations for election purposes.  Requires every for-profit business entity that contributes or expends funds in a state election to certify that the entity was not a foreign corporation or foreign-influenced business entity when the contribution or expenditure was made.  Specifies that if the conditions that determine whether a business entity qualifies as a foreign\u2011influenced business entity are held unconstitutional by a final judgment, including all appeals, the Campaign Spending Commission is required to establish revised conditions that are constitutional.  Requires noncandidate committees making only independent expenditures to obtain a statement of certification from each top contributor required to be listed in an advertisement avowing that no funds were derived from foreign nationals, foreign corporations, or foreign-influenced business entities.  Exempts entities engaged in transporting cargo and subject to section 27 of the Merchant Marine Act of 1920.  Effective 7/1/3000.  (HD2)"
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-sb1032"
+    }
+  ],
   "actions": [
+    {
+      "description": "Received notice of Senate conferees (Sen. Com. No. 761).",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "Senate Conferees Appointed: Lee, C. Chairs; Rhoads Co-Chair; Chang, DeCoite.",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "Re-Referred to WLA, JDC.",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "Received notice of disagreement (Sen. Com. No. 710).",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "Senate disagrees with House amendments.",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "Re-Referred to TRS, JDC.",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "Received from House (Hse. Com. No. 609).",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "Passed Third Reading as amended in HD 2 with none voting aye with reservations; Representative(s) Alcos voting no (1) and none excused (0).  Transmitted to Senate.",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "Forty-eight (48) hours notice Tuesday,  04-14-26.",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "Reported from FIN (Stand. Com. Rep. No. 2024-26) as amended in HD 2, recommending passage on Third Reading.",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "The committee on FIN recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 15 Ayes: Representative(s) Todd, Takenouchi, Hartsfield, Hussey, Keohokapu-Lee Loy, Kitagawa, Kusch, Lee, M., Miyake, Perruso, Templo, Yamashita, Reyes Oda; Ayes with reservations: Representative(s) Alcos, Gedeon;  Noes: none; and 1 Excused: Representative(s) Morikawa.",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "Bill scheduled for decision making on Tuesday, 04-07-26 10:10AM in conference room 308 VIA VIDEOCONFERENCE.",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "The committee(s) on FIN recommend(s) that the measure be deferred until 04-07-26.",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by FIN on Thursday, 04-02-26 2:00PM in House conference room 308 VIA VIDEOCONFERENCE.",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:46Z"
+      }
+    },
     {
       "description": "Carried over to 2026 Regular Session.",
       "date": "2025-12-08",
@@ -358,14 +524,14 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "SB1032_HD1",
+      "note": "SB1032_HD2",
       "links": [
         {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1032_HD1_.HTM",
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1032_HD2_.HTM",
           "media_type": "text/html"
         },
         {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1032_HD1_.PDF",
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1032_HD2_.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -403,6 +569,21 @@
       "classification": ""
     },
     {
+      "note": "SB1032_HD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1032_HD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1032_HD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB1032",
       "links": [
         {
@@ -427,7 +608,7 @@
     }
   ],
   "extras": {
-    "current_referral": "JHA, FIN"
+    "current_referral": "WLA, JDC"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:hi/government",
@@ -436,6 +617,6 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:35:38Z"
+    "logs_latest_update": "2026-07-03T13:49:46Z"
   }
 }

@@ -9,17 +9,131 @@
   "subject": [
     "Manufactured Housing",
     "Real Property",
-    "Residential Building Design Elements"
+    "Residential Building Design Elements",
+    "Urban District"
   ],
   "abstracts": [
     {
       "note": "description",
-      "abstract": "Establishes that manufactured homes are a permitted use by right on residentially zoned lots within the urban district.  Limits the use of residential building design elements to deny or discourage otherwise code-compliant manufactured homes.  Prohibits homeowners' associations and similar private governing bodies from enforcing covenants that actively or effectively prohibit otherwise lawful manufactured housing.  Prohibits counties from requiring manufactured homes that comply with federal manufactured housing standards to also comply with the Hawaii state building code or a county building code.  Specifies that a manufactured home is considered real property, requiring its transfer, conveyance, and mortgage to follow the same recording and enforcement requirements as other real property."
+      "abstract": "Establishes that manufactured homes are a permitted use by right on residentially zoned lots within the urban district.  Limits the use of residential building design elements to deny or discourage otherwise code-compliant manufactured homes.  Prohibits homeowners' associations and similar private governing bodies from enforcing covenants that actively or effectively prohibit otherwise lawful manufactured housing.  Prohibits counties from requiring manufactured homes that comply with federal manufactured housing standards to also comply with the Hawaii State Building Code or a county building code.  Specifies that a manufactured home is considered real property, requiring its transfer, conveyance, and mortgage to follow the same recording and enforcement requirements as other real property.  Effective 7/1/3000.  (HD1)"
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-hb1719"
+    }
+  ],
   "actions": [
+    {
+      "description": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on CPC with none voting aye with reservations; none voting no (0) and Representative(s) Holt excused (1).",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Consumer Protection & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:44Z"
+      }
+    },
+    {
+      "description": "Reported from HSG/WAL (Stand. Com. Rep. No. 177-26) as amended in HD 1, recommending passage on Second Reading and referral to CPC.",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:44Z"
+      }
+    },
+    {
+      "description": "The committee on WAL recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 7 Ayes: Representative(s) Hashem, Morikawa, Belatti, Poepoe, Souza; Ayes with reservations: Representative(s) Iwamoto, Shimizu;  Noes: none; and 2 Excused: Representative(s) Ichiyama, Woodson.",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:44Z"
+      }
+    },
+    {
+      "description": "The committee on HSG recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 9 Ayes: Representative(s) Evslin, Miyake, Grandinetti, Kila, Kitagawa, La Chica, Muraoka, Pierick; Ayes with reservations: Representative(s) Cochran;  Noes: none; and  Excused: none.",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:44Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by HSG/WAL on Friday, 02-06-26 8:45AM in House conference room 430 VIA VIDEOCONFERENCE.",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:44Z"
+      }
+    },
+    {
+      "description": "Referred to HSG/WAL, CPC, JHA, referral sheet 1",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Water & Land",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Consumer Protection & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:44Z"
+      }
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:44Z"
+      }
+    },
     {
       "description": "Prefiled.",
       "date": "2026-01-20",
@@ -164,6 +278,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "HB1719_HD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HB1719_HD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HB1719_HD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "HB1719",
       "links": [
         {
@@ -187,7 +316,9 @@
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "current_referral": "HSG/WAL, CPC, JHA"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:hi/government",
     "name": "Hawaii",
@@ -195,6 +326,6 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:35:37Z"
+    "logs_latest_update": "2026-07-03T13:49:44Z"
   }
 }

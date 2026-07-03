@@ -9,18 +9,85 @@
   "subject": [
     "Adaptation Pathways",
     "Adaptation Planning for Residential and Resort Shoreline Development",
-    "Appropriations ($)",
+    "Appropriation ($)",
     "Sea Level Rise Exposure Area"
   ],
   "abstracts": [
     {
       "note": "description",
-      "abstract": "Expands the authority of the State and counties to develop adaptation pathways plans to modify and relocate infrastructure away from critically threatened areas to locations outside sea level rise and coastal flooding exposure areas.  Appropriates funds."
+      "abstract": "Expands the authority of the State and counties to develop adaptation pathways plans to modify and relocate infrastructure away from critically threatened areas to locations outside sea level rise and coastal flooding exposure areas.  Appropriates funds.  Effective 7/1/2050.  (SD1)"
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-sb237"
+    }
+  ],
   "actions": [
+    {
+      "description": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to WAM.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:52Z"
+      }
+    },
+    {
+      "description": "Reported from WLA/AEN (Stand. Com. Rep. No. 2616) with recommendation of passage on Second Reading, as amended (SD 1) and referral to WAM.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:52Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  WLA recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in WLA were as follows: 5 Aye(s): Senator(s) Lee, C., Inouye, Chang, Lamosao, DeCorte; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:52Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  AEN recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in AEN were as follows: 5 Aye(s): Senator(s) Gabbard, DeCoite, Awa; Aye(s) with reservations: Senator(s) Richards, Rhoads ; 0 No(es): none; and 0 Excused: none.",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:52Z"
+      }
+    },
+    {
+      "description": "The committee(s) on WLA/AEN has scheduled a public hearing on 02-11-26 1:00PM; CR 224 & Videoconference.",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:52Z"
+      }
+    },
     {
       "description": "Re-Referred to WLA/AEN, WAM.",
       "date": "2026-01-21",
@@ -131,6 +198,21 @@
   ],
   "versions": [
     {
+      "note": "SB237_SD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB237_SD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB237_SD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB237",
       "links": [
         {
@@ -164,6 +246,6 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:35:37Z"
+    "logs_latest_update": "2026-07-03T13:49:52Z"
   }
 }

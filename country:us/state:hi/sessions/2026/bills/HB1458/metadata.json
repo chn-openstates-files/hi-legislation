@@ -7,22 +7,78 @@
     "bill"
   ],
   "subject": [
-    "Advertising on Major Social Media Platforms",
+    "Advertising",
     "Appropriation ($)",
     "Broadband and Digital Equity Special Fund",
     "Corporate Income Tax",
     "DBEDT",
-    "Hawaii Broadband and Digital Equity Office"
+    "Hawaii Broadband and Digital Equity Office",
+    "Major Social Media Platforms"
   ],
   "abstracts": [
     {
       "note": "description",
-      "abstract": "Directs the Department of Taxation to apply the state corporate income tax to advertising revenue earned by major social media platforms if the revenue is derived from content created within the State or from audiences located in the State.  Establishes the Broadband and Digital Equity Special Fund to receive those revenues to fund initiatives expanding broadband access and local journalism initiatives.  Appropriates funds."
+      "abstract": "Establishes the Broadband and Digital Equity Special Fund to receive revenues earned by major social media platforms to fund initiatives expanding broadband access and local journalism initiatives.  Directs the Department of Taxation to apply the state corporate income tax to advertising revenue earned by major social media platforms if the revenue is derived from content created within the State or from audiences located in the State.  Appropriates funds.  Effective 7/1/3000.  (HD1)"
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-hb1458"
+    }
+  ],
   "actions": [
+    {
+      "description": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on CPC with Representative(s) Garcia voting aye with reservations; Representative(s) Pierick voting no (1) and none excused (0).",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Consumer Protection & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:53Z"
+      }
+    },
+    {
+      "description": "Reported from ECD (Stand. Com. Rep. No. 253-26) as amended in HD 1, recommending passage on Second Reading and referral to CPC.",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:53Z"
+      }
+    },
+    {
+      "description": "The committee on ECD recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 7 Ayes: Representative(s) Ilagan, Hussey, Holt, Tam, Templo, Yamashita, Gedeon; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none.",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:53Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by ECD on Wednesday, 02-11-26 8:30AM in House conference room 423 VIA VIDEOCONFERENCE.",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:53Z"
+      }
+    },
     {
       "description": "Carried over to 2026 Regular Session.",
       "date": "2025-12-08",
@@ -90,6 +146,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "HB1458_HD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HB1458_HD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HB1458_HD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "HB1458",
       "links": [
         {
@@ -123,6 +194,6 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:35:36Z"
+    "logs_latest_update": "2026-07-03T13:49:53Z"
   }
 }

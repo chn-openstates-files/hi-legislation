@@ -18,12 +18,79 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "Requires the State's youth and adult correctional facilities to provide free and accessible voice communication services for incarcerated persons in state correctional facilities.  Prohibits any state agency from deriving revenue or financial benefit from the provision of communication services to persons confined in state correctional facilities.  Requires the Public Utilities Commission to establish service quality standards and rules for the free voice communication services.  Requires a report to the Legislature.  Appropriates funds."
+      "abstract": "Requires the State's youth and adult correctional facilities to provide free and accessible voice communication services for incarcerated persons in state correctional facilities.  Prohibits any state agency from deriving revenue or financial benefit from the provision of communication services to persons confined in state correctional facilities.  Requires the Public Utilities Commission to establish service quality standards and rules for the free voice communication services.  Requires a report to the Legislature.  Appropriates funds.  Effective 7/1/3000.  (HD1)"
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-hb676"
+    }
+  ],
   "actions": [
+    {
+      "description": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on CPC with Representative(s) Alcos, Garcia voting aye with reservations; none voting no (0) and none excused (0).",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Consumer Protection & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:47Z"
+      }
+    },
+    {
+      "description": "Reported from PBS/HSH (Stand. Com. Rep. No. 227-26) as amended in HD 1, recommending passage on Second Reading and referral to CPC.",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:47Z"
+      }
+    },
+    {
+      "description": "The committee on HSH recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 8 Ayes: Representative(s) Marten, Olds, Hartsfield, Keohokapu-Lee Loy, Takayama, Takenouchi; Ayes with reservations: Representative(s) Alcos, Garcia;  Noes: none; and 1 Excused: Representative(s) Amato.",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:47Z"
+      }
+    },
+    {
+      "description": "The committee on PBS recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 9 Ayes: Representative(s) Belatti, Iwamoto, Hashem, Ichiyama, Morikawa, Poepoe, Woodson, Souza; Ayes with reservations: Representative(s) Shimizu;  Noes: none; and  Excused: none.",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:47Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by PBS/HSH on Friday, 02-06-26 10:00AM in House conference room 411 VIA VIDEOCONFERENCE.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:47Z"
+      }
+    },
     {
       "description": "Carried over to 2026 Regular Session.",
       "date": "2025-12-08",
@@ -192,6 +259,21 @@
   ],
   "versions": [
     {
+      "note": "HB676_HD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HB676_HD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HB676_HD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "HB676",
       "links": [
         {
@@ -225,6 +307,6 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:35:38Z"
+    "logs_latest_update": "2026-07-03T13:49:47Z"
   }
 }

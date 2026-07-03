@@ -23,8 +23,24 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-sb438"
+    }
+  ],
   "actions": [
+    {
+      "description": "Re-Referred to HHS/WLA, WAM.",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:52Z"
+      }
+    },
     {
       "description": "Carried over to 2026 Regular Session.",
       "date": "2025-12-08",
@@ -481,6 +497,36 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "SB438_SD2",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB438_SD2_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB438_SD2_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB438_SD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB438_SD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB438_SD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB438_HD3",
       "links": [
         {
@@ -526,36 +572,6 @@
       "classification": ""
     },
     {
-      "note": "SB438_SD2",
-      "links": [
-        {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB438_SD2_.HTM",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB438_SD2_.PDF",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "SB438_SD1",
-      "links": [
-        {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB438_SD1_.HTM",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB438_SD1_.PDF",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "SB438",
       "links": [
         {
@@ -580,7 +596,7 @@
     }
   ],
   "extras": {
-    "current_referral": "EEP, WAL, JHA"
+    "current_referral": "HHS/WLA, WAM"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:hi/government",
@@ -589,6 +605,6 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:35:38Z"
+    "logs_latest_update": "2026-07-03T13:49:52Z"
   }
 }

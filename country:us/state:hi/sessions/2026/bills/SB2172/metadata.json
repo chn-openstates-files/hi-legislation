@@ -11,17 +11,108 @@
     "All-Terrain Vehicles",
     "Drivers",
     "Equipment",
-    "Highways"
+    "Highways",
+    "Utility Terrain Vehicles"
   ],
   "abstracts": [
     {
       "note": "description",
-      "abstract": "Allows an all-terrain vehicle to drive in the evening and night if they are equipped with headlights, tail lights, turn signals, and brake lights, and while displaying a slow moving vehicle emblem.  Allows drivers of all-terrain vehicles to wear a safety helmet with a securely fastened chin strap, rather than require.  Includes in the definition of \"utility-terrain vehicle\" a motor vehicle that accommodates one driver and one passenger sitting side-by-side, and up to six people in seat belts.  Includes \"all-terrain vehicle\" in the definition of \"motor vehicle\" under the State's motor vehicle insurance law."
+      "abstract": "Allows an all-terrain vehicle or utility terrain vehicle to drive in the evening and night if they are equipped with headlights, taillights, turn signals, and brake lights, and while displaying a slow moving vehicle emblem.  Allows drivers of all-terrain vehicles and utility vehicles to wear a safety helmet with a securely fastened chin strap, rather than require.  Includes in the definition of \"utility-terrain vehicle\" a motor vehicle that accommodates one driver and one passenger sitting side-by-side, and up to six people in seat belts.  Includes \"all-terrain vehicle\" and \"utility terrain vehicle\" in the definition of \"motor vehicle\" under the State's motor vehicle insurance law.  (SD1)"
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-sb2172"
+    }
+  ],
   "actions": [
+    {
+      "description": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to JDC.",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:45Z"
+      }
+    },
+    {
+      "description": "Reported from TRS (Stand. Com. Rep. No. 2140) with recommendation of passage on Second Reading, as amended (SD 1) and referral to JDC.",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:45Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  TRS recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in TRS were as follows: 4 Aye(s): Senator(s) Inouye, Elefante, Lee, C., DeCorte; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Kanuha.",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:45Z"
+      }
+    },
+    {
+      "description": "The committee(s) on TRS has scheduled a public hearing on 02-03-26 3:00PM; Conference Room 229 & Videoconference.",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:45Z"
+      }
+    },
+    {
+      "description": "Referred to TRS, JDC.",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:45Z"
+      }
+    },
+    {
+      "description": "Introduced and passed First Reading.",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:45Z"
+      }
+    },
     {
       "description": "Pending Introduction.",
       "date": "2026-01-14",
@@ -54,6 +145,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "SB2172_SD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB2172_SD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB2172_SD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB2172",
       "links": [
         {
@@ -77,7 +183,9 @@
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "current_referral": "TRS, JDC"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:hi/government",
     "name": "Hawaii",
@@ -85,6 +193,6 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:35:37Z"
+    "logs_latest_update": "2026-07-03T13:49:45Z"
   }
 }

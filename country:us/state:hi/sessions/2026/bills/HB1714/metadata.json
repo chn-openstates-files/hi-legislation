@@ -7,8 +7,8 @@
     "bill"
   ],
   "subject": [
-    "Employment Contract",
-    "Executive Assistant",
+    "Deputy Executive Director",
+    "Employment Contracts",
     "Executive Director Salary",
     "HHFDC",
     "HPHA"
@@ -16,12 +16,150 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "Increases the salary cap of the Executive Director of Hawaii Housing Finance and Development Corporation to an amount that does not exceed the Governor's salary.  Renames the Executive Assistant to the Deputy Executive Director and increases that position's salary cap to 95% of the Executive Director salary.  Prohibits HHFDC and Hawaii Public Housing Authority employment contracts that exceed 2 years, unless approved by the Legislature.  Provides HHFDC with autonomy in personnel matters."
+      "abstract": "Provides the Hawaii Housing Finance and Development Corporation with autonomy in personnel matters.  Increases the salary cap for the Executive Director and Deputy Executive Director of the Hawaii Housing Finance and Development Corporation.  Renames the Executive Assistant of the Hawaii Housing Finance and Development Corporation the Deputy Executive Director.  Prohibits the extension of any employment contract of the Hawaii Housing Finance and Development Corporation and Hawaii Public Housing Authority beyond two years without legislative approval.  Effective 7/1/3000.  (HD1)"
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-hb1714"
+    }
+  ],
   "actions": [
+    {
+      "description": "Report adopted; referred to the committee(s) on FIN with Representative(s) Alcos, Gedeon, Shimizu voting aye with reservations; Representative(s) Garcia, Muraoka voting no (2) and Representative(s) Quinlan excused (1).",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:47Z"
+      }
+    },
+    {
+      "description": "Reported from LAB (Stand. Com. Rep. No. 645-26), recommending referral to FIN.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:47Z"
+      }
+    },
+    {
+      "description": "The committee on LAB recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 5 Ayes: Representative(s) Sayama, Lee, M., Garrett, Kapela; Ayes with reservations: Representative(s) Reyes Oda;  Noes: none; and 1 Excused: Representative(s) Kong.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:47Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by LAB on Thursday, 02-19-26 9:30AM in House conference room 309 VIA VIDEOCONFERENCE.",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:47Z"
+      }
+    },
+    {
+      "description": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on LAB with Representative(s) Shimizu voting aye with reservations; Representative(s) Garcia, Gedeon, Muraoka voting no (3) and none excused (0).",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Labor",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:47Z"
+      }
+    },
+    {
+      "description": "Reported from HSG (Stand. Com. Rep. No. 120-26) as amended in HD 1, recommending passage on Second Reading and referral to LAB.",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:47Z"
+      }
+    },
+    {
+      "description": "The committee on HSG recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 7 Ayes: Representative(s) Evslin, Miyake, Cochran, Grandinetti, Kila, La Chica, Pierick; Ayes with reservations: none; 1 Noes: Representative(s) Muraoka; and 1 Excused: Representative(s) Kitagawa.",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:47Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by HSG on Wednesday, 02-04-26 9:00AM in House conference room 430 VIA VIDEOCONFERENCE.",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:47Z"
+      }
+    },
+    {
+      "description": "Referred to HSG, LAB, FIN, referral sheet 1",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Labor",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:47Z"
+      }
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:47Z"
+      }
+    },
     {
       "description": "Prefiled.",
       "date": "2026-01-20",
@@ -107,8 +245,29 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "SB 2338",
+      "legislative_session": "2026 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "HB1714_HD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HB1714_HD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HB1714_HD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "HB1714",
       "links": [
@@ -133,7 +292,9 @@
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "current_referral": "HSG, LAB, FIN"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:hi/government",
     "name": "Hawaii",
@@ -141,6 +302,6 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:35:39Z"
+    "logs_latest_update": "2026-07-03T13:49:47Z"
   }
 }

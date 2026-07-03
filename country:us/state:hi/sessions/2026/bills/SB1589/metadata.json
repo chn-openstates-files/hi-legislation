@@ -19,8 +19,34 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-sb1589"
+    }
+  ],
   "actions": [
+    {
+      "description": "Received notice of all Senate conferees being discharged (Sen. Com. No. 409).",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
+    {
+      "description": "Senate Conferee(s) discharged.",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:51Z"
+      }
+    },
     {
       "description": "Carried over to 2026 Regular Session.",
       "date": "2025-12-08",
@@ -481,36 +507,6 @@
   ],
   "versions": [
     {
-      "note": "SB1589_HD2",
-      "links": [
-        {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1589_HD2_.HTM",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1589_HD2_.PDF",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "SB1589_SD2_SFA4",
-      "links": [
-        {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1589_SD2_SFA4_.HTM",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1589_SD2_SFA4_.PDF",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "SB1589_SD3",
       "links": [
         {
@@ -519,21 +515,6 @@
         },
         {
           "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1589_SD3_.PDF",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "SB1589_HD1",
-      "links": [
-        {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1589_HD1_.HTM",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1589_HD1_.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -564,6 +545,51 @@
         },
         {
           "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1589_SD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB1589_SD2_SFA4",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1589_SD2_SFA4_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1589_SD2_SFA4_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB1589_HD2",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1589_HD2_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1589_HD2_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB1589_HD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1589_HD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB1589_HD1_.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -604,6 +630,6 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:35:38Z"
+    "logs_latest_update": "2026-07-03T13:49:51Z"
   }
 }

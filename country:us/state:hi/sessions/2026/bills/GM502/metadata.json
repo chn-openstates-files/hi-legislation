@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "GM502",
-  "title": "Letter dated December 3, 2025, appointing Rachele F. Lamosao to fill the vacancy as the member from the 19th Senate District (Pearl City, Waipahu, West Loch Estates, Hono\u2019uliuli and Ho\u2019opili).",
+  "title": "Letter dated December 3, 2025, appointing Rachele F. Lamosao to fill the vacancy as the member from the 19th Senatorial District (Pearl City, Waipahu, West Loch Estates, Hono\u2019uliuli and Ho\u2019opili).",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "proclamation"
@@ -14,8 +14,22 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-gm502"
+    }
+  ],
   "actions": [
+    {
+      "description": "Filed.",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:50Z"
+      }
+    },
     {
       "description": "Received.",
       "date": "2026-01-21",
@@ -69,6 +83,6 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:35:40Z"
+    "logs_latest_update": "2026-07-03T13:49:50Z"
   }
 }

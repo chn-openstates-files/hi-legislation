@@ -24,8 +24,34 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-sb125"
+    }
+  ],
   "actions": [
+    {
+      "description": "Received notice of all Senate conferees being discharged (Sen. Com. No. 409).",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:43Z"
+      }
+    },
+    {
+      "description": "Senate Conferee(s) discharged.",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-03T13:49:43Z"
+      }
+    },
     {
       "description": "Carried over to 2026 Regular Session.",
       "date": "2025-12-08",
@@ -545,14 +571,14 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "SB125_HD1",
+      "note": "SB125_SD2",
       "links": [
         {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB125_HD1_.HTM",
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB125_SD2_.HTM",
           "media_type": "text/html"
         },
         {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB125_HD1_.PDF",
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB125_SD2_.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -575,14 +601,14 @@
       "classification": ""
     },
     {
-      "note": "SB125_SD2",
+      "note": "SB125_HD1",
       "links": [
         {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB125_SD2_.HTM",
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB125_HD1_.HTM",
           "media_type": "text/html"
         },
         {
-          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB125_SD2_.PDF",
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB125_HD1_.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -623,6 +649,6 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:35:37Z"
+    "logs_latest_update": "2026-07-03T13:49:43Z"
   }
 }
